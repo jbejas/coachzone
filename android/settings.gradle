@@ -1,0 +1,3 @@
+rootProject.name = 'coachzone_'
+
+include ':app'
